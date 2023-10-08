@@ -3,7 +3,7 @@ package Lab1.MarketSystem;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ConcreteMarket implements Market {
+public class ConcreteMarket implements MarketService {
     private List<Product> products = new ArrayList<>();
 
     @Override
