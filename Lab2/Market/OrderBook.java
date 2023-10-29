@@ -1,9 +1,9 @@
 package Lab2.Market;
 
-//Singleton implementation
-
 import java.util.ArrayList;
 import java.util.List;
+
+//Singleton implementation
 
 public class OrderBook {
     private static OrderBook instance;
