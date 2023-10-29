@@ -8,7 +8,7 @@ public class NewProduct implements Product {
         this.name = name;
         this.price = price;
     }
-
+    
     @Override
     public String getName() {
         return name;
