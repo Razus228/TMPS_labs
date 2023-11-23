@@ -1,6 +1,6 @@
 # **Author : Igor Mihailiuc**
 
-# Topic : *SOLID Principles*
+# Topic : *Creational design patterns*
 
 ## Objectives:
 1. Study and understand the Creational Design Patterns.
@@ -8,7 +8,6 @@
 3. Use some creational design patterns for object instantiation in a sample project.
 
 # Implementation
-
 - For this laboratory work, I've implemented a example of Market, that will list all the products that it has. I've decided to implement ***Singleton pattern***, ***Builder pattern*** and the ***Factory pattern***. Here are some examples:
 
 1. ***Singleton pattern*** :
