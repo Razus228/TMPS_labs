@@ -37,4 +37,5 @@ public class Main {
         Machine vehicle2 = new Bike(new Produce(), new Assemble());
         vehicle2.manufacture();
     }
+    
 }

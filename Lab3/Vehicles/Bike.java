@@ -6,7 +6,7 @@ public class Bike extends Machine{
         super(garage1, garage2);
     }
 
-    public void manufacture(){
+    public void manufacture() {
         System.out.println("Bike");
         garage1.work();
         garage2.work();
